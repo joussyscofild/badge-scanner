@@ -16,7 +16,7 @@ export default function BadgeScannerApp() {
     phone: '',
     company: '',
     clientType: 'Client',
-    domain: 'Piscine',
+    domain: 'Enterprise Emballage',
     customDomain: '',
     region: 'Adrar',
     interesse: [],
@@ -27,11 +27,11 @@ export default function BadgeScannerApp() {
   // Liste des agents
   const agents = [
     'Yacine Fekhar',
-    'Rostom Moudjahid',
-    'Omar Fekhar',
-    'Lamine Fekhar',
-    'Lamine DJEHLANE',
-    'Oudjana Mohammed'
+    'DJABER ELAIB',
+    'Madjid ELAIB',
+    'Toufik Messen',
+    'Soufian ',
+    'Mustapha Fekhar'
   ];
 
   // Liste des wilayas d'Algérie
@@ -53,7 +53,7 @@ export default function BadgeScannerApp() {
 
   // Domaines d'activité
   const domains = [
-    'Piscine',
+    'Enterprise Emballage',
     'Entreprise construction',
     'Grossiste',
     'Revendeur',
