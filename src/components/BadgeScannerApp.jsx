@@ -30,7 +30,7 @@ export default function BadgeScannerApp() {
     'DJABER ELAIB',
     'Madjid ELAIB',
     'Toufik Messen',
-    'Soufian ',
+    'Soufian S ',
     'Mustapha Fekhar'
   ];
 
@@ -63,7 +63,7 @@ export default function BadgeScannerApp() {
   ];
 
   // Marques d'intérêt
-  const brands = ['VICTO', 'BFINDER', 'MTI'];
+  const brands = ['BFINDER'];
   const [hasCamera, setHasCamera] = useState(false);
   const scannerRef = useRef(null);
   const html5QrCodeRef = useRef(null);
