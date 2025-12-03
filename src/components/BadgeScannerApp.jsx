@@ -27,11 +27,12 @@ export default function BadgeScannerApp() {
   // Liste des agents
   const agents = [
     'Yacine Fekhar',
-    'DJABER ELAIB',
+    'Omar Fekhar',
     'Madjid ELAIB',
     'Toufik Messen',
     'Soufian S ',
-    'Mustapha Fekhar'
+  
+    
   ];
 
   // Liste des wilayas d'Algérie
