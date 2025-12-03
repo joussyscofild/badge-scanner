@@ -30,7 +30,7 @@ export default function BadgeScannerApp() {
     'Omar Fekhar',
     'Madjid ELAIB',
     'Toufik Messen',
-    'Soufian S ',
+    'Soufian ',
   
     
   ];
@@ -71,6 +71,9 @@ export default function BadgeScannerApp() {
 
   // Quick note suggestions
   const noteSuggestions = [
+    'Classe A',
+    'Classe B',
+    'Classe C',
     'Demande fiche technique',
     'Liste des prix',
     'Besoin de devis',
